@@ -18,11 +18,11 @@
 
 ---
 
-## 📋 About
+## About
 
 **FreshSense** is a smart refrigeration platform that leverages IoT sensors to monitor temperature, humidity, and ethylene gas levels inside your fridge. This landing page showcases the product's value proposition, features, pricing plans, user testimonials, and a contact form.
 
-## ✨ Features
+## Features
 
 - **Hero Section** — Full-screen background with animated text and CTA buttons
 - **How It Works** — Step-by-step visual guide with hover animations
@@ -32,7 +32,7 @@
 - **Contact Form** — Clean, responsive form for user inquiries
 - **Responsive Design** — Fully optimized for mobile, tablet, and desktop
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |---|---|
@@ -43,7 +43,7 @@
 | **Boxicons** | Additional icon set |
 | **Google Fonts** | Typography (Poppins, Montserrat, Nunito) |
 
-## 🚀 Getting Started
+## Getting Started
 
 1. **Clone the repository**
    ```bash
@@ -58,7 +58,7 @@
 
    No build tools or package managers required — it's a static site.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Landing_FreshSense/
@@ -83,10 +83,10 @@ Landing_FreshSense/
 └── README.md
 ```
 
-## 👥 Team
+## Team
 
 Developed as part of the **Software Architecture Fundamentals** course.
 
-## 📄 License
+## License
 
 This project is for educational purposes. All rights reserved © 2025.
