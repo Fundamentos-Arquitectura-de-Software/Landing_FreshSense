@@ -89,4 +89,4 @@ Developed as part of the **Software Architecture Fundamentals** course.
 
 ## License
 
-This project is for educational purposes. All rights reserved © 2025.
+This project is for educational purposes. All rights reserved © 2026.
